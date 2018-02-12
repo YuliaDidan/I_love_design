@@ -1,0 +1,126 @@
+body{
+	width: 100%;
+	background-color: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+.top {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+	height: 430px;
+	background-color: #021128;
+	color: white;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.bottom {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+	height: 700px;
+	background-color: white;
+	color: #2e3033;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.logo {
+	box-sizing: border-box;
+	border: solid 2px white;
+	border-radius: 50%;
+	width: 65px;
+	height: 65px;
+	font-size: 60px;
+	font-weight: bold;
+	margin: 20px auto 80px;
+}
+
+.love {
+	box-sizing: border-box;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin-bottom: 30px;
+}
+
+.glad {
+	box-sizing: border-box;
+	width: 350px;
+	margin: 0 auto;
+	padding: 2px 5px;
+	font-size: 15px;
+}
+
+.button {
+	border: solid 1px white;
+	border-radius: 50%;
+	width: 20px;
+	height: 16px;
+	font-size: 10px;
+	margin: 70px auto 15px;
+	vertical-align: middle;
+	padding-top: 4px;
+
+}
+
+.text1,
+ .text2 {
+	width: 50%;
+	margin: 0 auto;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.text2 {
+	width: 60%;
+}
+
+.text1 {
+	font-size: 21px;
+	margin-top: 50px;
+}
+
+.text1 p {
+	margin-bottom: 30px;
+}
+
+.main-title h1 {
+	font-size: 50px;
+	letter-spacing: 3px;
+	margin-bottom: 60px;
+}
+
+.title {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 30%;
+	vertical-align: middle;
+	text-align: left;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.block {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 30%;
+	vertical-align: top;
+	text-align: left;
+	margin-right: 10px;
+	line-height: 1.5;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
